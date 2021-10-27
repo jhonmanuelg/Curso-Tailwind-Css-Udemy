@@ -23,14 +23,14 @@ export default class ContactoForm extends Component {
 
     render() {
         return (
-            <div className="container">
+            <div className="container contcart">
                 
                 <h1 className="display-5 h1">Contactos</h1>
                 <br/>
 
                 <form className="form-inline "   onSubmit={this.onSubmit}>
                 <div className="form-group mx-sm-3 mb-2">
-                    <label>Nombre </label>
+                    <label>Nome</label>
                     <input type="text" 
                     className="form-control agrainput" 
                     name="nombre"

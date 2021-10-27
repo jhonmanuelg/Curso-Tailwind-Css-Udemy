@@ -1,5 +1,6 @@
 body {
-  margin: 0;
+  margin: auto;
+  
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -12,6 +13,11 @@ code {
     monospace;
 }
 
+.contcart{
+text-align: center;
+
+
+}
 .nav{  
   display: flex;
   align-items: center;
@@ -19,8 +25,7 @@ code {
 }
 
 .agrainput{
-  border: 2px solid rgb(0, 26, 255) !important;
-  
+  border: 2px solid rgb(0, 26, 255) !important;  
 
 }
 

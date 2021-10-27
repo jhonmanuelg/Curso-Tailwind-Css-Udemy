@@ -109,9 +109,10 @@ haciendolo asi tambien puedo cambiarlo dinamicamente usando una funcion
 */
 const TarjetaContacto = {
     width: "20rem",
-    margin: "2% 3% 1% 4%",
+    margin: "3% 0.01% 1% 9%",
     display: "inline-block",
     align: "center"
+    
 }
 
 const btnEliminar = {
